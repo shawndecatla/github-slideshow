@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"7/5/2021 new beginning" - A cat
 Use the left arrow to go back!
